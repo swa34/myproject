@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import openai
 
-openai.api_key = ""
+openai.api_key = "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"
 
 
 def index(request):
